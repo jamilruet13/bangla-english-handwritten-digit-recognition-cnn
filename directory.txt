@@ -1,0 +1,26 @@
+#This code is run by kaggle. So directory is same as kaggle Dataset Directory
+#Training
+#X-train png
+../input/training-a
+../input/training-b
+../input/training-c
+../input/training-d
+../input/training-e
+#y_train label
+../input/training-a.csv
+../input/training-b.csv
+../input/training-c.csv
+../input/training-d.csv
+../input/training-e.csv
+
+
+#Testing
+../input/testing-a
+../input/testing-b
+../input/testing-c
+../input/testing-d
+../input/testing-e
+../input/testing-auga
+../input/testing-augc
+
+Recommendation: Upload my Bangla Digit Recognition.ipynb to kaggle kernel and run.
