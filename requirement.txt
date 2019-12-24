@@ -14,7 +14,7 @@ fitter>=1.0.8
 annoy>=1.10.0
 
 #tensordlow
-tensorflow==1.8.0
+tensorflow==1.15.0
 
 # ipython/juptyer
 jupyter
